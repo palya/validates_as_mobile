@@ -25,8 +25,16 @@ Or:
 
 ## Install
 
+Put it to your Gemfile:
+
 ```bash
-gem install validates_as_mobile
+gem 'validates_as_mobile'
+```
+
+And run
+
+```bash
+bundle
 ```
 
 ## Usage example
